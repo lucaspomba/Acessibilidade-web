@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #000000;
+    --laranja-claro: #6214df;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-texto: #dcdf14;
+    --alto-contraste-link:  #dcdf14;
 }
 
 body {
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/fundo.jpg');
+    background-image: url('img/wave-background-technology-background-weaving-thread-artificial-intelligence-waves-backgroun_738063-178.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -107,12 +107,11 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/artistic-blurry-colorful-wallpaper-background_58702-8265.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
